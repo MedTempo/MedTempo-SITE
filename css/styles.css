@@ -13626,3 +13626,7 @@ header .container {
 div>h3 {
   font-size: 25px;
 }
+
+#footer_copyright {
+  color: #adb5bd;
+}
