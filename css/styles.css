@@ -24,7 +24,7 @@ html ::-webkit-scrollbar-track {
 
 html ::selection {
   color: #ededed;
-  background-color: #0A112B;
+  background-color: #0b1e63;
 }
 
 :root {
@@ -13253,6 +13253,10 @@ footer {
   margin-bottom: 0.75rem;
 }
 
+#footer_contacts p {
+  color: #feff99;
+}
+
 #footer_social_media {
   display: flex;
   gap: 2rem;
@@ -13298,7 +13302,7 @@ footer {
 }
 
 .footer-list .footer-link {
-  color: var(--color-neutral-30);
+  color: #f4f5c6;
   transition: all 0.4s;
 }
 
